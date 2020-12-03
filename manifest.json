@@ -1,19 +1,26 @@
 {
 
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Coloured-Browsing",
   "version": "1.0",
 
-  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "description": "Search anything on google with coloured background.",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/border.png"
+  },
+
+  "permissions": ["activeTab"],
+
+  "browser_action": {
+    "default_icon": "icons/border.png",
+    "default_popup": "popup.html"
   },
 
   "content_scripts": [
     {
       "matches": ["*://*.google.com/*"],
-      "js": ["borderify.js"]
+      "js": ["coloured.js"]
     }
   ]
 
