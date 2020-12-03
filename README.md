@@ -1,1 +1,52 @@
 # Coloured-Browsing
+
+Coloured-Browsing is a chrome browser extention that display some web pages (currently only google sites) colourful and its sections as cards.
+
+  - Search anything on Google
+  - Loading page completely
+  - Magic, simple page converted to a colourful page
+
+# Features!
+
+  - Change the background from white to different colour
+  - Change each result colour from white to different
+  - Colour of each card will be different
+
+### Tech
+
+Coloured-Browsing uses a number of tech to work properly:
+
+* [HTML] - Used to create structure of popup panel
+* [CSS] - Used to provide better look to popup panel
+* [JS] - Used to make popup panel functional also provide colour to web pages
+
+### Installation
+
+No additional package requirement for Coloured-Browser extention
+Only (Of course) a Chrome browser is needed
+
+
+Fork the project on your Github account
+
+Clone Project using Terminal or Command Prompt
+Open your favorite Terminal and run these commands.
+```sh
+$ git clone "Path_To_Project" .
+```
+Open Chrome Browser
+Go to 'More Tools' > 'Extentions'  section
+Click on "Load unpacked"
+Select the folder where project is placed
+Click on "Open Folder"
+Now search anything on google and see changes
+
+### Development
+
+Want to contribute? Great!
+
+Coloured-Browsing uses HTML, CSS and JS.
+
+Apply the installation process describe above for installation
+
+Make a change in your file,
+Reload Extention and see your updates!
