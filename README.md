@@ -22,23 +22,23 @@ Coloured-Browsing uses a number of tech to work properly:
 
 ### Installation
 
-No additional package requirement for Coloured-Browser extention
-Only (Of course) a Chrome browser is needed
+No additional package requirement for Coloured-Browser extention<br>
+Only (Of course) a Chrome browser is needed<br>
 
 
-Fork the project on your Github account
+Fork the project on your Github account<br>
 
-Clone Project using Terminal or Command Prompt
+Clone Project using Terminal or Command Prompt<br>
 Open your favorite Terminal and run these commands.
 ```sh
 $ git clone "Path_To_Project" .
 ```
 Open Chrome Browser
-Go to 'More Tools' > 'Extentions'  section
-Click on "Load unpacked"
-Select the folder where project is placed
-Click on "Open Folder"
-Now search anything on google and see changes
+Go to 'More Tools' > 'Extentions'  section<br>
+Click on "Load unpacked"<br>
+Select the folder where project is placed<br>
+Click on "Open Folder"<br>
+Now search anything on google and see changes<br>
 
 ### Development
 
@@ -48,5 +48,4 @@ Coloured-Browsing uses HTML, CSS and JS.
 
 Apply the installation process describe above for installation
 
-Make a change in your file,
-Reload Extention and see your updates!
+Make a change in your file, reload Extention and see your updates!
