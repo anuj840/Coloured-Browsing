@@ -12,7 +12,7 @@
 
   "permissions": ["activeTab"],
 
-  "browser_action": {
+  'browser_action': {
     "default_icon": "icons/border.png",
     "default_popup": "popup.html"
   },
